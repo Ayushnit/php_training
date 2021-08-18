@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38d5e1c5-48f4-496e-8da8-106b03e7afe9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/.env" beforeDir="false" afterPath="$PROJECT_DIR$/first_project/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/storage/framework/cache/data/c0/71/c071422490d526a8aada046adf3a9c9fa0593468" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/storage/framework/cache/data/ec/c4/ecc49f49f4da6b940dcde13f0571e79c299871e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/storage/framework/sessions/SNXCGfPNq75ieIxVDWtCtE8M6xS0M35fqIx8oeHS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/storage/framework/sessions/rm7cheksRzDCN9KhHUK8kJseHHAzzuUIuyIISHWn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/storage/framework/views/979841b7fd610552bf6b1d33db52191e9727d7ea.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/storage/framework/views/a8234d81861c8b4b0460e67493528586fb7d008f.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/storage/framework/views/b6ab3c92e9308e899cd875e43fa22179399bc2df.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/storage/framework/views/e5457259f743791b141bd323f96c3435927161b0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/storage/logs/laravel.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/first_project/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/first_project/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/vendor/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/first_project/vendor/composer/autoload_files.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/first_project/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/first_project/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_project/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/first_project/vendor/composer/autoload_static.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wu2nxCVL8U5wfPt3MTl1DCkjf1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38d5e1c5-48f4-496e-8da8-106b03e7afe9" name="Default Changelist" comment="" />
+      <created>1629294323568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629294323568</updated>
+      <workItem from="1629294324833" duration="680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
